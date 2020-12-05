@@ -4,7 +4,8 @@
   "description": "Web para el proyecto Fanzines en recreo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve src/"
   },
   "repository": {
     "type": "git",
