@@ -1,0 +1,24 @@
+{
+  "name": "fanzines-en-recreo",
+  "version": "1.0.0",
+  "description": "Web para el proyecto Fanzines en recreo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yajepanta/fanzinesenrecreo.git"
+  },
+  "author": "Yaje Panta <yajepanta\u001b2\u001b1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yajepanta/fanzinesenrecreo/issues"
+  },
+  "homepage": "https://github.com/yajepanta/fanzinesenrecreo#readme",
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "jest": "^26.6.3"
+  }
+}
